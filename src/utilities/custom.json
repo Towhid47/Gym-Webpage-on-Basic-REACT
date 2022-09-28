@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2389,
+    "exerciseName": "Deadlift",
+    "time": 20,
+    "details": "Arguably the king of all exercises, the deadlift hits every major muscle group hard, and is perhaps the greatest test of strength there is. Because of all the muscles involved, it releases a huge amount of testosterone (a muscle-building hormone) into the bloodstream. For this reason, the deadlift is a great cornerstone for any fitness plan",
+    "age": "20-25",
+    "picture": "https://t3.ftcdn.net/jpg/04/85/64/08/360_F_485640894_Ek9L59TH3BBBCNhFDjNNEMibaxOzK3Cj.jpg"
+  },
+  {
+    "id": 1349,
+    "exerciseName": "Diamond Pushups",
+    "time": 30,
+    "details": "Shift your focus to your triceps with this variation on a pushup. By keeping your hands closer together, your triceps are under more tension, resulting in a greater workout.",
+    "age": "20-28",
+    "picture": "https://phantom-marca.unidadeditorial.es/2c008483fd1317ea8a4c60675bdebf79/crop/0x101/2044x1249/resize/1320/f/jpg/assets/multimedia/imagenes/2022/02/16/16450220415578.jpg"
+  },
+  {
+    "id": 3111,
+    "exerciseName": "Half-Kneeling Landmine",
+    "time": 40,
+    "details": " the half-kneeling landmine press as one of the 10 best shoulder exercises for beginners. But no matter your fitness level, this is a move you should always consider using, especially if mobility is an issue..",
+    "age": "23-28",
+    "picture": "https://i.ytimg.com/vi/ORoOn93dnh4/maxresdefault.jpg"
+  },
+  {
+    "id": 5241,
+    "exerciseName": "Cable Crossover",
+    "time": 50,
+    "details": " The cable crossover is a versatile exercise that’s easy to learn and vital to any chest routine. How high you set the cables is all dependent on what part of the muscle you want to hit (upper or lower).",
+    "age": "23-30",
+    "picture": "https://breakingmuscle.com/wp-content/uploads/2022/08/Shutterstock_588330845.jpg"
+  },
+  {
+    "id": 35161,
+    "exerciseName": "Dumbbell Bench Press",
+    "time": 50,
+    "details": " TWhen building that perfect chest, be sure to always incorporate dumbbells into your bench routine. ",
+    "age": "25-30",
+    "picture": "https://cdn.mos.cms.futurecdn.net/8xssFNxSwVRBkG7ztzcufj-1200-80.jpg"
+  },
+  {
+    "id": 7184,
+    "exerciseName": "Calf Raise",
+    "time": 40,
+    "details": " Calf raises are a go-to for guys looking to build their legs, and it’s clear why. Whether you do them on a machine, with a barbell, or with just your bodyweight, it’s undeniable that they isolate your calf muscles to get them bigger and stronger",
+    "age": "23-30",
+    "picture": "https://breakingmuscle.com/wp-content/uploads/2022/08/Shutterstock_588330845.jpg"
+  }
+]
