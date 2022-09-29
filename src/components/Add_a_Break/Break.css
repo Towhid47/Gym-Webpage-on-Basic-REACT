@@ -1,0 +1,13 @@
+.buttonContainer{
+    border-radius: 8px;
+}
+.breakButton{
+    padding: 8px 9px;
+    border-radius: 20px;
+    font-weight: bolder;
+}
+
+.breakButton:hover{
+    background-color: rgb(20, 69, 213);
+    color: white;
+}
