@@ -6,5 +6,33 @@
     gap: 4%;
 }
 
+/* Make Cards Responsive */
+
+/* For Laptop */
+@media only screen and (max-width: 1312px){
+    .CardsContainer{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+}
+
+/* For Tablet */
+@media only screen and (max-width: 992px){
+    .CardsContainer{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+}
+
+/* For Smartphone */
+@media only screen and (max-width: 600px){
+    .CardsContainer{
+        display: grid;
+        grid-template-columns:  1fr;
+    }
+    
+}
 
 
