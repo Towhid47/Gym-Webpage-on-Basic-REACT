@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Activity from '../Activity Complete/Activity';
 import Break from '../Add_a_Break/Break';
 import BreakTime from '../BreakTime/BreakTime';
 import Details from '../exerciseDetails/Details';
@@ -26,6 +27,10 @@ const List = (props) => {
                   <h3 className='ms-3'>Exercise Details</h3>
                   <Details time={props.time}></Details>
                   <BreakTime timeBreak1={timeBreak1}></BreakTime>
+             </div>
+
+             <div >
+                 <Activity></Activity>
              </div>
 
         </div>

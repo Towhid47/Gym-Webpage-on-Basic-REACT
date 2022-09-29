@@ -1,0 +1,10 @@
+.qnaContainer{
+    margin: 10%;
+    text-align: center;
+}
+
+.qnaSection{
+    margin: 3%;
+    border: 7px solid cyan;
+    border-radius: 20px;
+}
