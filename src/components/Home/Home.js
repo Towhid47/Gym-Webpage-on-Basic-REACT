@@ -12,7 +12,7 @@ const Home = () => {
                  <Cards></Cards>  
              </div>
 
-             <div className='listContainer'>
+             <div className='listContainer container '>
                 <List></List>
              </div>
         </div>
