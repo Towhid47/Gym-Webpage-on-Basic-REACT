@@ -1,0 +1,10 @@
+.CardsContainer{
+    margin-left: 2%;
+    margin-top: 3%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4%;
+}
+
+
+
